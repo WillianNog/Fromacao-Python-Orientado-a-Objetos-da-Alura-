@@ -1,4 +1,4 @@
-# Meu Portfólio de Desenvolvimento em Python 🐍
+# Desenvolvimento em Python 🐍
 
 ✅ Concluí mais uma formação na [Alura](https://www.alura.com.br/), desta vez em Python e Orientação a Objetos. Durante o curso, mergulhei fundo na linguagem Python, conhecida por sua sintaxe simples e poderosa.
 
